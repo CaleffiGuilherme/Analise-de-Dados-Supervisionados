@@ -1,0 +1,9 @@
+ucimlrepo
+pandas
+numpy
+scikit-learn
+tensorflow
+matplotlib
+seaborn
+
+pip install ucimlrepo pandas numpy scikit-learn tensorflow matplotlib seaborn
